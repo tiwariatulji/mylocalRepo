@@ -1,0 +1,76 @@
+{"employee" : [
+  
+    {
+      "name": "Atul Tiwari",
+      "id": 0,
+      "age": 21,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school",
+      "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":"active"
+    },
+    {
+      "name": "Kalpesh Patel",
+      "id": 3,
+      "age": 21,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school",
+      "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":"inactive"
+
+    },
+    {
+      "name": "jerry",
+      "id": 2,
+      "age": 32,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school", 
+      "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":"deleted"
+      
+    },
+    {
+      "name": "Dev",
+      "id": 3,
+      "age": 10,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school",
+      "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":2      },
+    {
+      "name": "jhon cart",
+      "id": 4,
+      "age": 21,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school",
+      "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":1
+
+    },
+    {
+      "name": "ayush",
+      "id": 5,
+      "age": 12,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school",
+      "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":1
+
+    },
+    {
+      "name": "Devendra",
+      "id": 6,
+      "age": 20,
+      "mobile_number":1234567890,
+      "school":"Noble internbatinal school",
+       "company":"Itservice India",
+      "Adreess":"Ahemdabad",
+      "status":0
+    }
+     ] }
